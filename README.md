@@ -2,8 +2,6 @@
 <h3 align="center">A frontend Web developer from Jordan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawalmeh4&label=Profile%20views&color=0e75b6&style=flat" alt="sawalmeh4" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawalmeh4" alt="sawalmeh4" /></a> </p>
-
 - 🌱 I’m currently learning **React JS**
 
 - 📝 I regularly write articles on [Random Tech things](Random Tech things)
