@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 - 🌱 I’m currently learning **React JS**
 
-- 📝 I regularly write articles on [Random Tech things](Random Tech things)
+- 📝 I regularly write articles on Random Tech things
 
-- 💬 Ask me about **Html Css Js Boostrap AfterEffects**
 
 - 📫 How to reach me **salimobada173@gmail.com**
 
