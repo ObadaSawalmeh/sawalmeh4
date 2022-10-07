@@ -6,7 +6,6 @@
 
  📝 I regularly write articles on Random Tech things
 
-
  📫 How to reach me **salimobada173@gmail.com**
 
  ⚡ fact **Im A Fast Learner**
