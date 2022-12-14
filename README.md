@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Vue JS**
  
 - 📝 I regularly write articles on Random Tech things
  
