@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **React JS**
  
 - 📝 I regularly write articles on Random Tech things
  
-- 📫 How to reach me **salimobada173@gmail.com**
+- 📫 How to reach me **salimobada174@gmail.com**
  
 - ⚡ fact **Im A Fast Learner**
 
